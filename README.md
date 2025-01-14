@@ -3,7 +3,7 @@
 
 ###
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFKkK4-kd5DAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735570355527?e=1742428800&v=beta&t=24or9jR8581AXZC70AcoTTZ0G0Xkj95iKFAJxu7g098" alt="Snake animation" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFKkK4-kd5DAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735570355527?e=1742428800&v=beta&t=24or9jR8581AXZC70AcoTTZ0G0Xkj95iKFAJxu7g098" alt="banar" />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media.licdn.com/dms/image/v2/D4E03AQH0QE5U4qCQvg/profile-displayphoto-shrink_800_800/B4EZRkglqrGwAg-/0/1736853053205?e=1742428800&v=beta&t=UaF7RPw50Tlt3lLfDT_Fma1EnNX12eOBSn2fVUqYwXc"  />
+<img align="right" height="150" src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-1/458577909_530816982647699_1074979244627174999_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_ohc=13ZG4VuY0f0Q7kNvgHGW284&_nc_zt=24&_nc_ht=scontent.fdac41-1.fna&_nc_gid=AcMDbdlxeWAKqOdLM_5zx9R&oh=00_AYC4cK7Ihmsaf8l7YuIjzn45M8wbAGadkwv3n3lcgEub_g&oe=678C3897"  />
 
 ###
 
