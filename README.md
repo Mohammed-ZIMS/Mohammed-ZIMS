@@ -1,6 +1,8 @@
 <h1>Hey 👋! What's up? </h1>
-<h2 align="left">My name is Md Zahidul Islam Mehedi and I'm a programmer, from Bangladesh.</h2>
+<h4 align="left">My name is Md Zahidul Islam Mehedi and I'm a programmer, from Bangladesh.</h4>
 
+###
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFKkK4-kd5DAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735570355527?e=1742428800&v=beta&t=24or9jR8581AXZC70AcoTTZ0G0Xkj95iKFAJxu7g098" alt="Snake animation" />
 ###
 
 <div align="center">
@@ -36,11 +38,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFKkK4-kd5DAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735570355527?e=1742428800&v=beta&t=24or9jR8581AXZC70AcoTTZ0G0Xkj95iKFAJxu7g098" alt="Snake animation" />
 
 ###
