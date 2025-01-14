@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.licdn.com/dms/image/v2/D4E03AQH0QE5U4qCQvg/profile-displayphoto-shrink_800_800/B4EZRkglqrGwAg-/0/1736853053205?e=1742428800&v=beta&t=UaF7RPw50Tlt3lLfDT_Fma1EnNX12eOBSn2fVUqYwXc)"  />
 
 ###
 
@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQH0QE5U4qCQvg/profile-displayphoto-shrink_800_800/B4EZRkglqrGwAg-/0/1736853053205?e=1742428800&v=beta&t=UaF7RPw50Tlt3lLfDT_Fma1EnNX12eOBSn2fVUqYwXc" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
